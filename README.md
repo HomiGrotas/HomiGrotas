@@ -1,16 +1,15 @@
 ## Hi there 👋
 
+## My Github Stats
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=HomiGrotas&show_icons=true&theme=gotham&&count_private=true&include_all_commits=true"/>
 <!--
-**HomiGrotas/HomiGrotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a><h2>🏆 Github Profile Trophy</h2></a>
+<a>
+  <img width=1400 src="https://github-profile-trophy.vercel.app/?username=HomiGrotas&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Number Of Visitors 
+![Visitor Count](https://profile-counter.glitch.me/HomiGrotas/count.svg)
 -->
